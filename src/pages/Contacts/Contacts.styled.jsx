@@ -7,6 +7,8 @@ export const Header = styled.h1`
     font-size: 24px;
     font-weight: 400;
     margin-bottom: 20px;
+    margin-top: 150px;
+    width: 250px;
     `
 
 export const Text = styled.span`
